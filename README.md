@@ -12,7 +12,7 @@ Please refer to individual repositories for setup instructions.
 ## 📂 **Final Structure:**
 
 
-```brylle60
+```bash
 brylle60/
 ├── task-management-backend/     (Backend repo)
 │   ├── src/
