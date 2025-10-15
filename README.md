@@ -3,8 +3,10 @@
 This project has been split into separate repositories:
 
 - **Backend**: [task-management-backend](https://github.com/brylle60/task-management-backend)
-- **Frontend**: [task-management-frontend] (https://github.com/brylle60/task-management-frontend.git)
+- **Frontend**: [task-management-frontend](https://github.com/brylle60/task-management-frontend.git)
+
 Please refer to individual repositories for setup instructions.
+
 ```
 
 ---
@@ -30,7 +32,7 @@ brylle60/
 
 ```
 
-    # Task Management Automation
+# Task Management Automation
 
 This project consists of a Spring Boot backend and a React frontend with TypeScript and Tailwind CSS.
 
