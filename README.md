@@ -13,7 +13,7 @@ Please refer to individual repositories for setup instructions.
 
 
 ```
-yourusername/
+brylle60/
 ├── task-management-backend/     (Backend repo)
 │   ├── src/
 │   ├── pom.xml
